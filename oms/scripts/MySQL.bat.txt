@@ -1,0 +1,4 @@
+rem Goto to C:\Program Files\MySQL\MySQL Server 5.7\bin
+rem mysql -p -u root lv374oms < MySQL.sql
+
+mysql -p -u root lv374oms < C:\Users\profile\workspace\oms\scripts\MySQL.sql
