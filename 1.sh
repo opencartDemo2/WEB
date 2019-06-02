@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "ЦЯ команда праює"
+echo "This is correct command"
 touch "tttt.txt"
